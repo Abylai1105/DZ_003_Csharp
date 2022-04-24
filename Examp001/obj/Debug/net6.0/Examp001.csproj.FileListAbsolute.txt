@@ -1,0 +1,15 @@
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/bin/Debug/net6.0/Examp001
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/bin/Debug/net6.0/Examp001.deps.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/bin/Debug/net6.0/Examp001.runtimeconfig.json
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/bin/Debug/net6.0/Examp001.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/bin/Debug/net6.0/Examp001.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.csproj.AssemblyReference.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.AssemblyInfoInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.AssemblyInfo.cs
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.csproj.CoreCompileInputs.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/refint/Examp001.dll
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.pdb
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/Examp001.genruntimeconfig.cache
+/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/ДЗ_3/Examp001/obj/Debug/net6.0/ref/Examp001.dll
