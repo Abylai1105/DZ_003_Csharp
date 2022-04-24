@@ -2,7 +2,6 @@
 //using static System.Console;
 //Console.Clear;
 
-//int a;
 Console.Write("Введите пятизначное число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 string p = a.ToString();
