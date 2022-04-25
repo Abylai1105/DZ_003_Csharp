@@ -1,6 +1,6 @@
-﻿//using System;
-//using static System.Console;
-//Console.Clear;
+﻿using System;
+using static System.Console;
+Console.Clear();
 
 Console.Write("Введите число: ");
 int number = int.Parse(ReadLine());
