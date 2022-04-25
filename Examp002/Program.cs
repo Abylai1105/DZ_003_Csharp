@@ -12,5 +12,5 @@ int x2 = int.Parse(a1[3]);
 int y2 = int.Parse(a1[4]);
 int z2 = int.Parse(a1[5]);
 
-double.result = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2));
+double result = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2));
 Console.WriteLine($"Растояние между точками: {result}");
